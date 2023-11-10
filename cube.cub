@@ -1,0 +1,22 @@
+NO ./textures/map1/bricks.xpm
+WE ./textures/map1/glass.xpm
+SO ./textures/map1/planks.xpm
+EA ./textures/map1/stone.xpm
+DO ./textures/door.xpm
+C 255,255,255
+F 0,255,255
+
+111111
+100001
+100001
+100001
+100001
+100001
+100001
+112211
+100001
+100001
+100001
+10N001
+100001
+111111
